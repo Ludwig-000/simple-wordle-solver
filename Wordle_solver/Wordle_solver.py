@@ -143,10 +143,5 @@ while 1:
                 if (not char.isdigit() ) and (not char in green_word) and (char in yellow_list):
                     sorted_by_letter[i] = [word for word in sorted_by_letter[i] if word[counter] != last_attempt[counter]]  # remove all words with the letter "last_attempt[counter]" at the current searched-for place
                 counter+=1
-                
-              
-   
 
-
-
-
+    break
