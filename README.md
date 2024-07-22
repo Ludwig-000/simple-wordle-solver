@@ -8,6 +8,6 @@ to be done:
 
 -optimize. ( its fast enough for its purpose, but not scalable )
 
--make better. ( its got bugs )
+-make better. ( not optimized for single character search )
 
 :)
